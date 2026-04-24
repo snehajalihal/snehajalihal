@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshitha</h1>
+<h1 align="center">Hi 👋, I'm Sneha J</h1>
 <h3 align="center">💻 Software Engineering Student | Passionate Developer | Problem Solver</h3>
 
 <p align="center">
