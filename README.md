@@ -2,29 +2,29 @@
 <h3 align="center">💻 Computer Science Engineering Graduate | Data/ Business Analyst | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Python+Developer;Java+Programmer;C+Language+Learner;Frontend+Designer;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Python+Developer;Data+Analysis;Data+Analyst;Business+Analyst;Future+Analyst" />
 </p>
 
 ---
 
 ## 🚀 About Me  
 
-🎓 Software Engineering Student  
+🎓 Computer Science Engineering Graduate 
 💡 Passionate about coding and learning new technologies  
 🌱 Currently improving programming & development skills  
-💻 Interested in Python, Java, C and Web Development  
-🎯 Goal: Become a skilled Software Engineer  
+💻 Interested in Python, SQL, MySQL, Miscrosoft Excel, Microsoft PowerBI and Web Development  
+🎯 Goal: Become a skilled Data/Business Analyst
 
 ---
 
 ## 🛠️ Skills & Tools  
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python" height="55"/>
-<img src="https://skillicons.dev/icons?i=c" height="55"/>
-<img src="https://skillicons.dev/icons?i=java" height="55"/>
-<img src="https://skillicons.dev/icons?i=html" height="55"/>
-<img src="https://skillicons.dev/icons?i=css" height="55"/>
+<img src="https://skillicons.dev/icons?i=Python" height="55"/>
+<img src="https://skillicons.dev/icons?i=SQL" height="55"/>
+<img src="https://skillicons.dev/icons?i=MySQL" height="55"/>
+<img src="https://skillicons.dev/icons?i=Excel" height="55"/>
+<img src="https://skillicons.dev/icons?i=PowerBI" height="55"/>
 <img src="https://skillicons.dev/icons?i=vscode" height="55"/>
 <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </p>
@@ -53,7 +53,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:sneha18.cse.rymec@gmail.com">
+<a href="mailto:snehaajalihal@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
