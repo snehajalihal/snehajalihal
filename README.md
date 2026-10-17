@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha J</h1>
-<h3 align="center">💻 Computer Science Engineering Graduate | Data/ Business Analyst | Problem Solver</h3>
+<h3 align="center">💻 Computer Science Engineering Graduate | Data/Business Analyst | Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Python+Developer;Data+Analysis;Data+Analyst;Business+Analyst;Future+Analyst" />
